@@ -1,6 +1,5 @@
 # Instruction of MMONCT package
-This package includes Matlab scripts and several datasets for demo of MMONCT approach:
-‘Main.m’ is a Matlab function for the routine of experimental analysis. MMONCT aims to identify multi-modal drug targets. 
+A novel multi-modal multiobjective evolutionary optimization framework (called MMONCP) is proposed to identify multi-modal drug targets with network control principles. The key points of MMONCP are that a constrained multi-modal multi-objective optimization problem is formed with discrete constraints on the decision space and multi-modality characteristics, and a evolutionary algorithm is designed by combining a global and local search strategy and a weighting-based special crowding distance strategy to balance the diversity of both objective and decision space.This package includes Matlab scripts and several datasets for demo of MMONCT approach: ‘Main.m’ is a Matlab function for the routine of experimental analysis. MMONCT aims to identify multi-modal drug targets. 
 
 The input (case: BRCA) include:
 (1)Path: The path of the user where the 'Main,m' is located.
