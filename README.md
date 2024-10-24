@@ -24,6 +24,6 @@ ii.Parameter setting of Popnum, Max_CalNum, and Experiment_num will affect the r
 iii.If users want to run their own experimental data, users should add the data of normal samples, tumor samples and mutation samples for the corresponding disease in the 'Code_construct_personalized_network' file.
 iv.The user can modify the corresponding index in lines 44 and 57 of the 'model' function to identify one patient’s drug targets.
 
-%    $Id: Main.m Created at 2022-11-28$ 
+%    $Id: Main.m Created at 2024-11-28$ 
 %   $Copyright (c) 2022 by School of Electrical Engineering, Zhengzhou University, Zhengzhou 450001, China$; 
-%    $If any problem, please contact zero999396@outlook.com for help. $
+%    $If any problem, please contact guowf@zzu.edu.cn and zero999396@outlook.com for help. $
