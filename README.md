@@ -25,5 +25,5 @@ iii.If users want to run their own experimental data, users should add the data 
 iv.The user can modify the corresponding index in lines 44 and 57 of the 'model' function to identify one patient’s drug targets.
 
 %    $Id: Main.m Created at 2024-11-28$ 
-%   $Copyright (c) 2022 by School of Electrical Engineering, Zhengzhou University, Zhengzhou 450001, China$; 
+%   $Copyright (c) 2024 by School of Electrical Engineering, Zhengzhou University, Zhengzhou 450001, China$; 
 %    $If any problem, please contact guowf@zzu.edu.cn and zero999396@outlook.com for help. $
